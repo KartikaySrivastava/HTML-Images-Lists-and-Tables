@@ -1,1 +1,1 @@
-# HTML-Images-Lists-and-Tables.
+# HTML-Images-Lists-and-Tables
